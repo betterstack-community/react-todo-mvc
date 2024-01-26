@@ -1,25 +1,49 @@
-# Title of the project
+# Playwright End-to-End Testing Demo
 
-Description of the project.
+The repo holds the React variant of the popular [TodoMVC](https://todomvc.com/)
+application. It's used here to demonstrate end-to-end testing with
+[Playwright](https://playwright.dev).
 
-**Tutorial**: [Link to corresponding BetterStack tutorial]()
+**Tutorial**:
+[A Step by Step Guide to Playwright End-to-End testing](https://betterstack.com/community/guides/testing/playwright-end-to-end-testing)
 
-![Screenshot or GIF of the application in action](screenshot.png)
+![React TodoMVC demo](screenshot.png)
 
 ## 🟢 Prerequisites
 
-A list of requirements and package versions that the reader needs to build and
-run the project.
-
-- The first thing.
-- The second thing.
+- [A recent version of Node.js](https://nodejs.org/en/download), preferably the
+  latest LTS.
 
 ## 📦 Getting started
 
-A brief guide to setting up the project.
+- Clone this repository to your local machine:
 
-- Do the first thing.
-- Do the next thing.
+```bash
+git clone https://github.com/betterstack-community/react-todo-mvc
+```
+
+- Change into the project directory, and install the dependencies:
+
+```bash
+cd react-todo-mvc
+```
+
+```bash
+npm install
+```
+
+- Start the development server on port 8080:
+
+```bash
+npm run dev
+```
+
+- Open http://127.0.0.1:8080 in your browser to view and interact with the
+  application.
+
+- [Follow the tutorial](<(https://betterstack.com/community/guides/testing/playwright-end-to-end-testing)>)
+  to learn how to write and execute end-to-end tests for the application with
+  Playwright.
 
 ## ⚖ License
 
