@@ -4,8 +4,11 @@ The repo holds the React variant of the popular [TodoMVC](https://todomvc.com/)
 application. It's used here to demonstrate end-to-end testing with
 [Playwright](https://playwright.dev).
 
+The original code can be found
+[here](https://github.com/tastejs/todomvc/tree/master/examples/react).
+
 **Tutorial**:
-[A Step by Step Guide to Playwright End-to-End testing](https://betterstack.com/community/guides/testing/playwright-end-to-end-testing)
+[Playwright End-to-End testing: A Step-by-Step Guide](https://betterstack.com/community/guides/testing/playwright-end-to-end-testing/)
 
 ![React TodoMVC demo](screenshot.png)
 
